@@ -1,5 +1,6 @@
 # super-cotes-boostees-winamax
 
+# NE PAS PASSER EN PUBLIC A CAUSE DES CLES D'API DANS LES CODES
 ## Utilité
 
 Prévenir un utilisateur via une notification Telegram/myNotifier que de nouveaux paris sur les Grosses Cotes Boostées sont disponibles (Winamax).
